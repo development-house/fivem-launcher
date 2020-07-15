@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="releases/latest"><img src="img/logo.png" alt="Purple World" /></a>
+  <a href="../../releases/latest"><img src="img/logo.png" alt="Purple World" /></a>
 </p>
 <h1 align="center">
   Launcher
@@ -12,7 +12,7 @@
 
 ## Download
 
-Download the latest version from [releases page](releases/latest). Once installed, any future updates will be downloaded automatically and applied upon launcher application restart.
+Download the latest version from [releases page](../../releases/latest). Once installed, any future updates will be downloaded automatically and applied upon launcher application restart.
 
 
 ## Features
