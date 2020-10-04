@@ -30,6 +30,6 @@ Download the latest version from [releases page](../../releases/latest). Once in
 
 ## Contributing
 
-The application is a closed-source software and this repository provides a source for its releases and updates.
+The application is a closed-source software and the repository only serves as a source for its releases and updates.
 
 To report a bug, feel free to open an issue here on Github, on community Discord, or on community forums.
