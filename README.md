@@ -23,11 +23,6 @@ Download the latest version from [releases page](../../releases/latest). Once in
 - Links to forums and socials
 
 
-## Preview
-
-![Purple World launcher preview](img/preview.png)
-
-
 ## Contributing
 
 The application is a closed-source software and the repository only serves as a source for its releases and updates.
